@@ -1,0 +1,128 @@
+body{
+  background-color: #eae7d9;
+  text-align: center;
+  display: inline-block;
+  font-family: 'Open Sans', sans-serif;
+}
+.heading{
+  margin: 2rem auto 0 16rem;
+}
+.line1{
+  font-weight: 100;
+  margin: 0 auto -1rem auto;
+}
+.line2{
+  margin: 1rem auto 1rem auto;
+}
+.head-para{
+  width: 64%;
+  margin: 0 auto 0 auto;
+}
+.tbuilder{
+  width: 22rem;
+  height: 15rem;
+  margin: 3rem 14rem 0 auto;
+  background-color: white;
+  border: solid;
+  border-width: 0.2rem 0 0;
+  border-radius: 2%;
+  border-top-color: red;
+  box-shadow: 0 4px 11px 4px darkgrey;
+}
+.tbuilderh{
+  text-align: left;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.tbuilderp{
+  text-align: left;
+  font-size: 101%;
+  padding-left: 1rem;
+}
+.tbuilderi{
+  height: 3rem;
+  width: 3rem;
+  margin: 1.5rem -15rem 0 auto;
+}
+.supervisor{
+  margin: -6rem 38rem 7rem auto;
+  width: 22rem;
+  height: 15rem;
+  background-color: white;
+  border: solid;
+  border-width: 0.2rem 0 0;
+  border-radius: 2%;
+  border-top-color: deepskyblue;
+  box-shadow: 0 4px 11px 4px darkgrey;
+
+}
+.supervisorh{
+  text-align: left;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.supervisorp{
+  text-align: left;
+  font-size: 101%;
+  padding-left: 1rem;
+  width: 76%;
+}
+.supervisori{
+  width: 3rem;
+  height: 3rem;
+  margin: 1.5em -15em 0 auto;
+}
+.calc{
+  margin: -22rem -10rem 7rem auto;
+  width: 22rem;
+  height: 15rem;
+  background-color: white;
+  border: solid;
+  border-width: 0.2rem 0 0;
+  border-radius: 2%;
+  border-top-color: cornflowerblue;
+  box-shadow: 0 4px 11px 4px darkgrey;
+}
+.calch{
+  text-align: left;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.calcp{
+  text-align: left;
+  font-size: 101%;
+  padding-left: 1rem;
+  width: 82%;
+}
+.calci{
+  width: 3rem;
+  height: 3rem;
+  margin: 1.5em -15em 0 auto;
+}
+.karma{
+  margin: -14rem 14rem 7rem auto;
+  width: 22rem;
+  height: 15rem;
+  background-color: white;
+  border: solid;
+  border-width: 0.2rem 0 0;
+  border-radius: 2%;
+  border-top-color: yellow;
+  box-shadow: 0 4px 11px 4px darkgrey;
+}
+.karmah{
+  text-align: left;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.karmap{
+  text-align: left;
+  font-size: 101%;
+  padding-left: 1rem;
+  width: 82%;
+}
+.karmai{
+  width: 3rem;
+  height: 3rem;
+  margin: 1.5em -15em 0 auto;
+}
